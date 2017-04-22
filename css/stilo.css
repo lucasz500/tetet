@@ -1,0 +1,13 @@
+.circle{
+    position: relative;
+    border-radius:100%;
+    width:450px;
+    height:450px;
+    background-color:#000;
+    margin: 100px 10px 10px 330px;   
+}
+.circle img{
+    position: absolute;
+    width: 70%;
+    margin: 40px 62px;
+}
